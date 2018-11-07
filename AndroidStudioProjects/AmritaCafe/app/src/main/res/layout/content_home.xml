@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.venug.amritacafe.Home">
+
+    <Button
+        android:id="@+id/breakfastButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="65dp"
+        android:text="BreakFast" />
+
+    <Button
+        android:id="@+id/lunchButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/breakfastButton"
+        android:layout_marginTop="146dp"
+        android:text="Lunch" />
+
+    <Button
+        android:id="@+id/snacksButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/lunchButton"
+        android:layout_marginTop="58dp"
+        android:text="Snacks" />
+
+    <Button
+        android:id="@+id/beverageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="40dp"
+        android:text="Beverages" />
+</RelativeLayout>

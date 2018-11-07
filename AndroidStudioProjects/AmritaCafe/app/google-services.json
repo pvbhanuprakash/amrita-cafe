@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "398225440134",
+    "firebase_url": "https://amritacafe-b8895.firebaseio.com",
+    "project_id": "amritacafe-b8895",
+    "storage_bucket": "amritacafe-b8895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398225440134:android:20489ece680724ee",
+        "android_client_info": {
+          "package_name": "com.example.venug.amritacafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398225440134-d3f11vi9e1r8o2ipu9ln8dol3rdl4i6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMPsnDpt_FvFAGcJGjoRwWCAzox510KEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
